@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Food\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ satiation\ isCanned\ isSpoiled
+comment1.target=Food(java.lang.String,\ int,\ boolean,\ boolean)
+comment2.params=
+comment2.target=void\ spoil()
+comment3.params=
+comment3.target=void\ replenish()
+numComments=4
